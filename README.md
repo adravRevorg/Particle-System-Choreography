@@ -8,3 +8,5 @@ A particle system simulator with several choreographies
 5. This is an OOP based project.
 
 A demo video : https://youtu.be/baN6tqoUp6M
+
+Credit : For UI controllers, I used an external library for Processing named controlP5
